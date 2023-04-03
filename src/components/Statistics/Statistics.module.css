@@ -1,0 +1,15 @@
+.statTitle {
+  width: 360px;
+  display: flex;
+  justify-content: center;
+}
+
+.statList {
+  width: 360px;
+  display: flex;
+  justify-content: center;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  gap: 25px;
+  background-color: rebeccapurple;
+}

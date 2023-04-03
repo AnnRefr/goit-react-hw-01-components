@@ -1,0 +1,4 @@
+.statItem {
+  display: flex;
+  flex-direction: column;
+}
